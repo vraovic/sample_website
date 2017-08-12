@@ -1,0 +1,1 @@
+<p>Read me file</p><strong>Text is strong</strong> and this is <i>itallic</i>
